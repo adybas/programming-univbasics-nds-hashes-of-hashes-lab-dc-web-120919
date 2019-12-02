@@ -42,4 +42,9 @@ def naming_system
   # So, if we have the "Kingdom" node we should be able to "tunnel" into the
   # HoH all the way to Species!
 
+  PORTION_1
+  PORTION_2
+  PORTION_3
+  return PORTION_4
+
 end
